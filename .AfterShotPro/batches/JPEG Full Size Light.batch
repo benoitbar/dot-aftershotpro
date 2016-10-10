@@ -1,0 +1,55 @@
+[batch]
+dstdir=
+dstdirflatten=false
+dstdirmode=aski
+filterstring=All files
+forcemip=0
+hotkey=
+ignorecrop=false
+name-en=JPEG Full Size Light
+name-de=JPEG-Vollbild  Light
+name-fr=Grand format JPEG light
+name-it=JPEG dimensione intera light
+name-nl=Volledige JPEG light
+name-ja=JPEG Full Size Light
+preservecrop=true
+preserverotation=true
+promptonce=true
+settingsfile=
+settingsmode=current
+srcdir=
+srcdirmode=ask
+srcdirrecursive=false
+
+[output1]
+allowoverwrite=false
+askForJob=true
+dontenlarge=true
+dpi=300
+enabled=true
+externalviewer=
+externalviewerArgs=%1
+fileformat=jpeg
+height1=1200
+m_embedCopyright=false
+m_embedExif=false
+m_embedProfile=false
+m_embedXMP=false
+m_outputSharpOn=false
+mipQuality=0
+newscalemode=2
+openexternal=false
+outputProfileName=sRGB
+outputProfilePath=srgb.icm
+outputSharpRad=0.8
+outputSharpThresh=0
+outputSharpenAmt=100
+presets=\0
+quality=90
+rename=[jobname]-[4jobseq]_[date][ext]
+saveprofile=false
+scalemode=reduce
+subdir=[year]/[jobname]/[date]_[jobname]
+type=file
+width1=1920
+

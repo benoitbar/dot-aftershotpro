@@ -1,0 +1,55 @@
+﻿[batch]
+dstdir=~/ownCloud/Photos/Photos
+dstdirflatten=false
+dstdirmode=fixed
+filterstring=All files
+forcemip=0
+hotkey=F
+ignorecrop=false
+name-en=JPEG Full Size
+name-de=JPEG-Vollbild
+name-fr=Grand format JPEG
+name-it=JPEG dimensione intera
+name-nl=Volledige JPEG
+name-ja=JPEG フル サイズ
+preservecrop=true
+preserverotation=true
+promptonce=true
+settingsfile=
+settingsmode=current
+srcdir=
+srcdirmode=ask
+srcdirrecursive=false
+
+[output1]
+allowoverwrite=false
+askForJob=true
+dontenlarge=true
+dpi=300
+enabled=true
+externalviewer=
+externalviewerArgs=%1
+fileformat=jpeg
+height1=1920
+m_embedCopyright=false
+m_embedExif=true
+m_embedProfile=true
+m_embedXMP=true
+m_outputSharpOn=false
+mipQuality=0
+newscalemode=2
+openexternal=false
+outputProfileName=sRGB
+outputProfilePath=srgb.icm
+outputSharpRad=0.8
+outputSharpThresh=0
+outputSharpenAmt=100
+presets=\0
+quality=100
+rename=[jobname]-[4jobseq]_[date][ext]
+saveprofile=true
+scalemode=reduce
+subdir=[year]/[jobname]/[date]_[jobname]
+type=file
+width1=2560
+

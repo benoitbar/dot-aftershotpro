@@ -1,0 +1,40 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="XMP Core 4.4.0">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:bib="http://www.bibblelabs.com/BibbleToplevel/5.0/"
+    xmlns:bset="http://www.bibblelabs.com/BibbleSettings/5.0/"
+    xmlns:blay="http://www.bibblelabs.com/BibbleLayers/5.0/"
+    xmlns:bopt="http://www.bibblelabs.com/BibbleOpt/5.0/">
+   <bib:settings>
+    <rdf:Description
+     bset:settingsVersion="66"
+     bset:respectsTransform="True"
+     bset:curLayer="0">
+    <bset:layers>
+     <rdf:Seq>
+      <rdf:li>
+       <rdf:Description
+        blay:layerId="0"
+        blay:layerPos="0"
+        blay:name=""
+        blay:enabled="True">
+       <blay:options
+        bopt:hasSettings="true"
+        bopt:newsharpen="200"
+        bopt:sharpenon="true"
+        bopt:sat="5"
+        bopt:cont="5"
+        bopt:vibe="5"
+        bopt:curveson="true"
+        bopt:curves_m_cn="4,1,4,2,2,2"
+        bopt:curves_m_cy="4,20,0,22166,44333,65535,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,65535,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,65535,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,65535,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0"
+        bopt:curves_m_cx="4,20,0,20150,46703,65535,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,65535,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,65535,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,65535,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0"/>
+       </rdf:Description>
+      </rdf:li>
+     </rdf:Seq>
+    </bset:layers>
+    </rdf:Description>
+   </bib:settings>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>
